@@ -22,3 +22,5 @@ class EmptyGarden
 
 $plot = new EmptyGarden(20, 30);
 var_dump( $plot->items() );
+
+// php .\app\DesignPattern\SRP\EmptyGarden.php
