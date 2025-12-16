@@ -6,7 +6,7 @@ use App\DesignPattern\LSP\PlotArea;
 
 class EmptyGarden
 {
-    private PlotArea $plot;
+    protected PlotArea $plot;
 
     public function __construct(PlotArea $plot)
     {  
