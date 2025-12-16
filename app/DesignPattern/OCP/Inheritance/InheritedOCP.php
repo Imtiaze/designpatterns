@@ -1,6 +1,6 @@
 <?php
 
-namespace App\DesignPattern\OCP;
+namespace App\DesignPattern\OCP\Inheritance;
 
 // Original class (closed for modification)
 class EmptyGarden

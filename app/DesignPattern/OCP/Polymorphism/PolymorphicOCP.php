@@ -1,6 +1,6 @@
 <?php
 
-namespace App\DesignPattern\OCP;
+namespace App\DesignPattern\OCP\Polymorphism;
 
 // Step 1: Define a Garden interface
 interface GardenInterface
