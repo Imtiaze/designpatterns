@@ -1,0 +1,17 @@
+{
+    "name": "pattern/playground",
+    "autoload": {
+        "psr-4": {
+            "Pattern\\Playground\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Imtiaze",
+            "email": "ahammedimtiaze78@gmail.com"
+        }
+    ],
+    "require": {
+        "larapack/dd": "^1.1"
+    }
+}
